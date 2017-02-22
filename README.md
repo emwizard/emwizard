@@ -19,4 +19,4 @@ Average earning:
  more at: http://emwizard.com
 
 DOWNLOADS:
-  1. https://github.com/emwizard/emwizard/blob/master/Earn_Money_Wizard.zip
+  1. https://github.com/emwizard/emwizard/releases/download/1.3/Earn_Money_Wizard.zip
